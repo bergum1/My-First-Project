@@ -1,14 +1,16 @@
-//
-//  main.cpp
-//  My First Project
-//
-//  Created by Austin Bergum on 8/29/22.
-//
+/*
+Austin Bergum
+C++ Fall 2022
+Due : Aug. 31, 2022
+Lab 1 Introduction to C++ Programming
+This lab is a demo of my ability to work with an IDE and GitHub.
+*/
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+int main()
+{
+   std::cout << "Hello World!" << " Black ";
+   
+   return 0;
 }
